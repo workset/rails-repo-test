@@ -1,0 +1,4 @@
+engines:
+  reek:
+    enabled: true
+    channel: b838
