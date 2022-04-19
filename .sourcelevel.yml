@@ -1,4 +1,5 @@
+styleguide: sourcelevel/linters#latest
 engines:
   reek:
     enabled: true
-    channel: b838
+    channel: latest
