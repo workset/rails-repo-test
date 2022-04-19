@@ -1,0 +1,4 @@
+nodejs 12.16.1
+yarn 1.22.0
+postgres 9.5.22
+redis 2.8.24
